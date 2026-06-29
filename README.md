@@ -1,4 +1,4 @@
-# 8-Sensor Environmental Monitoring Board
+# 8-Sensor Environmental Monitoring Board(2026.01.02~01.13)
 **8종 센서 통합 환경 모니터링 보드 (Arduino Mega Shield)**
 
 > 대기질·기상 8종 센서를 하나의 보드에 통합한 환경 모니터링 시스템.
